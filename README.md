@@ -15,9 +15,9 @@
  - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 -->
 
-- 📫 How to reach me **tohjinghua123@gmail.com**
+- 📫 How to reach me **tohjinghuaz@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I am an early bird**
 
 ## 🚀 Languages and Tools:
 
