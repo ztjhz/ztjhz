@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio Website](#)**
+- 🔭 I’m currently working on **[My Portfolio Website](https://github.com/ztjhz/portfolio)**
 
 - 🌱 I’m currently learning **about everything**🤣
 
