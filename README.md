@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[My Portfolio Website](https://github.com/ztjhz/portfolio)**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Probelm Solving**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -24,7 +24,6 @@
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C++-225257?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -32,7 +31,7 @@
 ![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
+<!-- ![C++](http://img.shields.io/badge/-C++-225257?style=flat-square&logo=c%2B%2B&logoColor=ffffff) -->
 <br/>
 
 <details>
