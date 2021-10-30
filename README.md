@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio **C Text Editor**
+- 🔭 I’m currently working on **C Text Editor**
 
 - 🌱 I’m currently learning **Probelm Solving**
 
