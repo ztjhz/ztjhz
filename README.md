@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Hash Table (C Implementation)**
+- 🔭 I’m currently working on **Improving Portfolio Website**
 
-- 🌱 I’m currently learning **Probelm Solving**
+- 🌱 I’m currently learning **Problem Solving**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
