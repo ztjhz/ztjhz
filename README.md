@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Improving Portfolio Website**
+- 🔭 I’m currently working on **MERN application**
 
 - 🌱 I’m currently learning **Problem Solving**
 
