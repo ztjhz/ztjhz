@@ -16,7 +16,7 @@
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-- ⚡ Fun fact **I am an early bird**
+- ⚡ Fun fact **I like to learn** 📚
 
 <br />
 
