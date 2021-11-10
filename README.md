@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN application**
+- 🔭 I’m currently working on **MERN implementation of Portfolio Website**
 
-- 🌱 I’m currently learning **Problem Solving**
+- 🌱 I’m currently learning **[Machine Learning](https://www.coursera.org/learn/machine-learning)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
