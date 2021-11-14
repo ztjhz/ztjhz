@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN implementation of Portfolio Website**
+- 🔭 I’m currently working on **Bug Tracker**
 
 - 🌱 I’m currently learning **[Machine Learning](https://www.coursera.org/learn/machine-learning)**
 
