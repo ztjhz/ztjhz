@@ -64,7 +64,7 @@
     <dd><li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li></dd>
   <dt>Back end</dt>
-    <dd><li><a href="https://github.com/ztjhz/web50-projects" alt="django">Django Projects</a></li></dd>
+    <dd><li><a href="https://github.com/ztjhz/django-mail-server" alt="django">Django Mail Server</a></li></dd>
 </dl>
 </details>
 
