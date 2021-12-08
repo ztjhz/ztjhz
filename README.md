@@ -67,6 +67,7 @@
     <dd><li><a href="https://github.com/ztjhz/django-mail-server" alt="django-mail-server">Django Mail Server</a></li></dd>
    <dd><li><a href="https://github.com/ztjhz/django-ecommerce-server" alt="django-ecommerce-server">Django Ecommerce Server</a></li></dd>
    <dd><li><a href="https://github.com/ztjhz/django-wiki-server" alt="django-wiki-server">Django Wiki Server</a></li></dd>
+  <dd><li><a href="https://github.com/ztjhz/django-social-media-server" alt="django-social-media-server">Django Social Media Server</a></li></dd>
 </dl>
 </details>
 
