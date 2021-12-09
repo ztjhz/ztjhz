@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Bug Tracker**
+- 🔭 I’m currently working on **Finance Portfolio Tracker**
 
 - 🌱 I’m currently learning **[Machine Learning](https://www.coursera.org/learn/machine-learning)**
 
@@ -21,38 +21,6 @@
 <br />
 
 ## 👨‍💻 Projects
-<details>
-  <summary style="font-size: 3rem; font-weight: bold">🧠 Algorithms & Data Structures</summary>
- <ul>
-  <li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li>
-  <li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li>
-  <li><a href="https://github.com/ztjhz/Hash-Table-in-C" alt="C_hashtable">Hashtable in C</a></li>
- </ul>
-</details>
-
-<details>
-  <summary style="font-size: 3rem; font-weight: bold">⚙️ Automation</summary>
- <ul>
-  <li><a href="https://github.com/ztjhz/generate_class_schedule_ics" alt="class_schedule">Class Schedule Generator</a></li>
-  <li><a href="https://github.com/ztjhz/crypto-portfolio" alt="finance_tracker">Personal Finance Tracker</a></li>
- </ul>
-</details>
-
-<details>
-  <summary style="font-size: 3rem; font-weight: bold">🎮 Games</summary>
- <ul>
-  <li><a href="https://github.com/ztjhz/TicTacToe" alt="tictactoe">TicTacToe</a></li>
-  <li><a href="https://github.com/ztjhz/snake-game" alt="snake_game">Snake Game</a></li>
- </ul>
-</details>
-
-<details>
-  <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning</summary>
- <ul>
-  <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
- </ul>
-</details>
-
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🌐 Web Dev</summary>
  <dl>
@@ -69,6 +37,38 @@
    <dd><li><a href="https://github.com/ztjhz/django-wiki-server" alt="django-wiki-server">Django Wiki Server</a></li></dd>
   <dd><li><a href="https://github.com/ztjhz/django-social-media-server" alt="django-social-media-server">Django Social Media Server</a></li></dd>
 </dl>
+</details>
+
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">⚙️ Automation</summary>
+ <ul>
+  <li><a href="https://github.com/ztjhz/generate_class_schedule_ics" alt="class_schedule">Class Schedule Generator</a></li>
+  <li><a href="https://github.com/ztjhz/crypto-portfolio" alt="finance_tracker">Personal Finance Tracker</a></li>
+ </ul>
+</details>
+
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">🧠 Algorithms & Data Structures</summary>
+ <ul>
+  <li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li>
+  <li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li>
+  <li><a href="https://github.com/ztjhz/Hash-Table-in-C" alt="C_hashtable">Hashtable in C</a></li>
+ </ul>
+</details>
+
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">🎮 Games</summary>
+ <ul>
+  <li><a href="https://github.com/ztjhz/TicTacToe" alt="tictactoe">TicTacToe</a></li>
+  <li><a href="https://github.com/ztjhz/snake-game" alt="snake_game">Snake Game</a></li>
+ </ul>
+</details>
+
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning</summary>
+ <ul>
+  <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
+ </ul>
 </details>
 
 <br />
