@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Finance Portfolio Tracker**
+- 🔭 I’m currently working on **Finance Portfolio Tracker (Frontend + Backend)**
 
 - 🌱 I’m currently learning **[Machine Learning](https://www.coursera.org/learn/machine-learning)**
 
