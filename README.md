@@ -14,7 +14,7 @@
 
  - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://tohjinghua.com)**
 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas!
 
 - ⚡ Fun fact **I like to learn** 📚
 
@@ -120,3 +120,4 @@
     <img src="https://komarev.com/ghpvc/?username=ztjhz">
 </a>
 <a href="https://github.com/ztjhz?tab=followers"><img src="https://img.shields.io/github/followers/ztjhz?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
