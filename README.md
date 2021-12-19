@@ -27,7 +27,7 @@
   <dt>Full Stack</dt>
     <dd><li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories App (MERN Stack)</a></li></dd>
   <dt>Front end</dt>
-    <dd><li><a href="https://github.com/ztjhz/portfolio" alt="portfolio">Portfolio Website</a></li></dd>
+    <dd><li><a href="https:tohjinghua.com" alt="portfolio">Portfolio Website</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li></dd>
