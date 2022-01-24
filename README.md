@@ -92,9 +92,6 @@
 
 ![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
 
-<!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
-<!-- ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) -->
-<!-- ![C++](http://img.shields.io/badge/-C++-225257?style=flat-square&logo=c%2B%2B&logoColor=ffffff) -->
 <br/>
 
 <details>
