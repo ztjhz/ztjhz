@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jing Hua</h1>
 <h3 align="center">Bringing ideas to life with code 🌱</h3>
+<h4 align="center"><a href="https://tohjinghua.com" target="_blank" >Portfolio Website</a></h4>
 
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Finance Portfolio Tracker (Frontend + Backend)**
 
@@ -12,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
- - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://tohjinghua.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://tohjinghua.com)**
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas!
 
-- ⚡ Fun fact **I like to learn** 📚
+- ⚡ Fun fact **I like to learn** 📚 -->
 
 <br />
 
