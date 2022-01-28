@@ -4,7 +4,6 @@
 <h3 align="center">Bringing ideas to life with code 🌱</h3>
 <h4 align="center"><a href="https://tohjinghua.com" target="_blank" >Portfolio Website</a></h4>
 
-
 <!-- ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Finance Portfolio Tracker (Frontend + Backend)**
