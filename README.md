@@ -114,7 +114,7 @@
 
 </p>
 
-### 📧 Talk with me, I am kinda awesome:
+### 📧 Socials:
 
 <a href="https://www.linkedin.com/in/tohjinghua/" target="_blank" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 <!-- ## ❤ Views and Followers
