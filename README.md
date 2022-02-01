@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jing Hua</h1>
 <h3 align="center">Bringing ideas to life with code 🌱</h3>
-<h4 align="center"><a href="https://tohjinghua.com" target="_blank" >Portfolio Website</a></h4>
+<div align="center">
+  <a href="https://tohjinghua.com" target="_blank" ><img src="https://img.shields.io/badge/portfolio_website-D14836?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tohjinghua/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 <!-- ## 🙋‍♂️ About Me
 
@@ -114,9 +117,6 @@
 
 </p>
 
-### 📧 Socials:
-
-<a href="https://www.linkedin.com/in/tohjinghua/" target="_blank" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 <!-- ## ❤ Views and Followers
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=ztjhz">
