@@ -23,6 +23,16 @@
 
 <br />
 
+## 💼 Experience
+|Date|Company|Role|
+|----|-------|----|
+|Nov 2021 - Jan 2022|REC Solar|Software Engineer Intern|
+|Nov 2021 - Jan 2022|Zendodo Pte. Ltd.|Frontend Web Developer Intern|
+|Dec 2021|Project Flux|Software Developer Intern|
+
+
+<br />
+
 ## 👨‍💻 Projects
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🌐 Web Dev</summary>
