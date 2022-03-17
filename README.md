@@ -26,11 +26,10 @@
 ## 💼 Experience
 |Company|Role|Start|End|
 |-------|----|-----|---|
-|GovTech - Government Digital Services|Software Engineer Intern|May 2022|Aug 2022|
 |REC Solar|Software Engineer Intern|Nov 2021|Jan 2022|
 |Zendodo Pte. Ltd.|Frontend Web Developer Intern|Nov 2021|Jan 2022|
 |Project Flux|Software Developer Intern|Dec 2021|Dec 2021|
-
+<!-- |GovTech - Government Digital Services|Software Engineer Intern|May 2022|Aug 2022| -->
 
 <br />
 
