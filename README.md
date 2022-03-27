@@ -38,7 +38,8 @@
   <summary style="font-size: 3rem; font-weight: bold">🌐 Web Dev</summary>
  <dl>
   <dt>Full Stack</dt>
-    <dd><li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories</a></li></dd>
+    <dd><li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li></dd>
+    <dd><li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories (MERN)</a></li></dd>
   <dt>Front end</dt>
     <dd><li><a href="https://tohjinghua.com" alt="portfolio">Portfolio Website</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li></dd>
@@ -120,6 +121,12 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### Deployment
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
 <br/>
 
