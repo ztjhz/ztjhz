@@ -127,10 +127,10 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
  <dl>
   <dt>Full Stack</dt>
     <dd><li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li></dd>
-    <dd><li><a href="https://youtu.be/p8xk7oT1x2U" alt="recsolar">💼 Maintenance App | Rec Solar</a></li></dd>
+    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px"/><a href="https://youtu.be/p8xk7oT1x2U" alt="recsolar"> Maintenance App | Rec Solar</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories (MERN)</a></li></dd>
   <dt>Front end</dt>
-    <dd><li><a href="https://youtu.be/CsG4qeS1Arg" alt="zendodo">💼 NFT Gaming Web App | Zendodo</a></li></dd>
+    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px"/><a href="https://youtu.be/CsG4qeS1Arg" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li></dd>
     <dd><li><a href="https://tohjinghua.com" alt="portfolio">Portfolio Website</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li></dd>
@@ -171,7 +171,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 <details>
   <summary><b>🤖 Machine Learning</b></summary>
  <ul>
-  <li><a href="https://github.com/ztjhz/SC1015-Project" alt="food_forecast">🎓 AniFame - Anime Success Predictor</a></li>
+  <li><img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="15px"/><a href="https://github.com/ztjhz/SC1015-Project" alt="food_forecast"> AniFame - Anime Success Predictor</a></li>
   <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
  </ul>
 </details>
