@@ -10,25 +10,9 @@
   <a href="https://www.linkedin.com/in/tohjinghua/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div> -->
 
-<!-- ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Finance Portfolio Tracker (Frontend + Backend)**
-
-- 🌱 I’m currently learning **[Machine Learning](https://www.coursera.org/learn/machine-learning)**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://tohjinghua.com)**
-
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas!
-
-- ⚡ Fun fact **I like to learn** 📚 -->
-
-<br />
-
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px"/> Experience
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">Frontend Web Developer Intern | <a href="https://mission.zendodo.io" target="_blank">Zendodo</a> | Nov 2021 - Jan 2021 (3 months)</summary>
+  <summary><b>Frontend Web Developer Intern | <a href="https://mission.zendodo.io" target="_blank">Zendodo</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
  <dl>
    <br/>
    
@@ -59,7 +43,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">Software Engineer Intern | <a href="https://www.recgroup.com/en" target="_blank">REC Solar</a> | Nov 2021 - Jan 2021 (3 months)</summary>
+  <summary><b>Software Engineer Intern | <a href="https://www.recgroup.com/en" target="_blank">REC Solar</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
  <dl>
    <br/>
    
@@ -95,7 +79,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">Software Developer Intern | <a href="https://projectflux.co" target="_blank">Project Flux</a> | Dec 2021 (1 month)</summary>
+  <summary><b>Software Developer Intern | <a href="https://projectflux.co" target="_blank">Project Flux</a> | Dec 2021 (1 month)</b></summary>
  <dl>
    <br/>
    
@@ -139,7 +123,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px"/> Projects
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">🌐 Web Dev</summary>
+  <summary><b>🌐 Web Dev</b></summary>
  <dl>
   <dt>Full Stack</dt>
     <dd><li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li></dd>
@@ -160,7 +144,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">⚙️ Automation</summary>
+  <summary><b>⚙️ Automation</b></summary>
  <ul>
   <li><a href="https://github.com/ztjhz/generate_class_schedule_ics" alt="class_schedule">Class Schedule Generator</a></li>
   <li><a href="https://github.com/ztjhz/crypto-portfolio" alt="finance_tracker">Personal Finance Tracker</a></li>
@@ -168,7 +152,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">🧠 Algorithms & Data Structures</summary>
+  <summary><b>🧠 Algorithms & Data Structures</b></summary>
  <ul>
   <li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li>
   <li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li>
@@ -177,7 +161,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">🎮 Games</summary>
+  <summary><b>🎮 Games</b></summary>
  <ul>
   <li><a href="https://github.com/ztjhz/TicTacToe" alt="tictactoe">TicTacToe</a></li>
   <li><a href="https://github.com/ztjhz/snake-game" alt="snake_game">Snake Game</a></li>
@@ -185,7 +169,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning</summary>
+  <summary><b>🤖 Machine Learning</b></summary>
  <ul>
   <li><a href="https://github.com/ztjhz/SC1015-Project" alt="food_forecast">🎓 AniFame - Anime Success Predictor</a></li>
   <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
