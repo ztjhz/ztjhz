@@ -28,6 +28,37 @@
 
 ## 💼 Experience
 <details>
+  <summary style="font-size: 3rem; font-weight: bold">Frontend Web Developer Intern | <a href="https://mission.zendodo.io" target="_blank">Zendodo</a> | Nov 2021 - Jan 2021 (3 months)</summary>
+ <dl>
+   <br/>
+   
+      📑 𝗔𝗯𝗼𝘂𝘁:
+      - Zendodo is a NFT collection that lives on the WAX blockchain. 
+      - Mission Crafts is an 𝗡𝗙𝗧 𝗴𝗮𝗺𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 for Zendodo Party players.
+
+      🌳 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁:
+      - Worked in a 𝗿𝗮𝗽𝗶𝗱 development environment with 𝗱𝗮𝗶𝗹𝘆 𝘀𝘁𝗮𝗻𝗱𝘂𝗽𝘀. 
+      - Collaborated with the UI/UX designers on frontend features
+
+      👨‍💻 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+      - Developed a blockchain NFT gaming web application (Mission Craft) in 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁, 𝗦𝗔𝗦𝗦 and 𝗡𝗲𝘅𝘁.𝗷𝘀 (𝗥𝗲𝗮𝗰𝘁)
+      - Optimized data retrieval from blockchain API
+      - Engineered reusable components to speed up development efficiency and improve code quality
+      - Optimized 𝘀𝘁𝗮𝘁𝗲 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 using 𝘇𝘂𝘀𝘁𝗮𝗻𝗱 and 𝗿𝗲𝗮𝗰𝘁 𝘀𝘁𝗮𝘁𝗲 𝗵𝗼𝗼𝗸𝘀
+
+      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+      - SASS, TypeScript
+      - Next.js (React), zustand
+      - Blockchain API (atomicassests API, dfuse API by EOS Nation)
+   
+https://user-images.githubusercontent.com/59118459/169631280-79699a85-6dc4-4ba4-bbd9-ce5167c02737.mp4
+
+https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-9c31-982fa4ac609b.mp4
+
+</dl>
+</details>
+
+<details>
   <summary style="font-size: 3rem; font-weight: bold">Software Engineer Intern | <a href="https://www.recgroup.com/en" target="_blank">REC Solar</a> | Nov 2021 - Jan 2021 (3 months)</summary>
  <dl>
    <br/>
@@ -60,37 +91,6 @@
    
    https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-a22d-794ef6af302c.mp4
    
-</dl>
-</details>
-
-<details>
-  <summary style="font-size: 3rem; font-weight: bold">Frontend Web Developer Intern | <a href="https://mission.zendodo.io" target="_blank">Zendodo</a> | Nov 2021 - Jan 2021 (3 months)</summary>
- <dl>
-   <br/>
-   
-      📑 𝗔𝗯𝗼𝘂𝘁:
-      - Zendodo is a NFT collection that lives on the WAX blockchain. 
-      - Mission Crafts is an 𝗡𝗙𝗧 𝗴𝗮𝗺𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 for Zendodo Party players.
-
-      🌳 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁:
-      - Worked in a 𝗿𝗮𝗽𝗶𝗱 development environment with 𝗱𝗮𝗶𝗹𝘆 𝘀𝘁𝗮𝗻𝗱𝘂𝗽𝘀. 
-      - Collaborated with the UI/UX designers on frontend features
-
-      👨‍💻 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
-      - Developed a blockchain NFT gaming web application (Mission Craft) in 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁, 𝗦𝗔𝗦𝗦 and 𝗡𝗲𝘅𝘁.𝗷𝘀 (𝗥𝗲𝗮𝗰𝘁)
-      - Optimized data retrieval from blockchain API
-      - Engineered reusable components to speed up development efficiency and improve code quality
-      - Optimized 𝘀𝘁𝗮𝘁𝗲 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 using 𝘇𝘂𝘀𝘁𝗮𝗻𝗱 and 𝗿𝗲𝗮𝗰𝘁 𝘀𝘁𝗮𝘁𝗲 𝗵𝗼𝗼𝗸𝘀
-
-      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-      - SASS, TypeScript
-      - Next.js (React), zustand
-      - Blockchain API (atomicassests API, dfuse API by EOS Nation)
-   
-https://user-images.githubusercontent.com/59118459/169631280-79699a85-6dc4-4ba4-bbd9-ce5167c02737.mp4
-
-https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-9c31-982fa4ac609b.mp4
-
 </dl>
 </details>
 
@@ -231,11 +231,11 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
+<!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) -->
 
 <br/>
 
-<details>
+<!-- <details>
   <summary>🔥 Streak</summary>
   <img title="Jing Hua's streak" alt="Jing Hua's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ztjhz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </details>
@@ -251,7 +251,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
   <summary>📊 My Github Stats</summary>
 <a href="#"><img alt="ztjhz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ztjhz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <img alt="ztjhz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ztjhz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</details>
+</details> -->
 
 </p>
 
