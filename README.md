@@ -27,11 +27,112 @@
 <br />
 
 ## 💼 Experience
-|Company|Role|Start|End|
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">Software Engineer Intern | <a href="https://www.recgroup.com/en" target="_blank">REC Solar</a> | Nov 2021 - Jan 2021 (3 months)</summary>
+ <dl>
+   <br/>
+   
+   [REC Commendation Letter.pdf](https://github.com/ztjhz/ztjhz/files/8746200/REC.Commendation.Letter.Jing.Hua.pdf)
+   
+        📑 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 𝗼𝗳 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+         - Led a team of 3 to create a 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲 𝗖𝗵𝗲𝗰𝗸𝗹𝗶𝘀𝘁 𝗮𝗽𝗽 through the entire 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗹𝗶𝗳𝗲 𝗰𝘆𝗰𝗹𝗲
+
+        👨‍💻 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+        - Designed and 𝗼𝗽𝘁𝗶𝗺𝗶𝘀𝗲𝗱 𝗿𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 to reduce redundancy
+        - Developed frontend application using 𝗣𝗼𝘄𝗲𝗿𝗔𝗽𝗽𝘀
+        - Performed rigorous testing to identify and fix bugs
+
+        📝 𝗢𝘁𝗵𝗲𝗿 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+        - Published 𝗰𝗹𝗲𝗮𝗿 𝗮𝗻𝗱 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 for users and developers
+        - 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲𝗱 engineers to enhance user experience.
+        - Organized meetings with stakeholders
+        - Pitched final product to 10 engineers and HR staff
+
+        🥇 𝗥𝗲𝘀𝘂𝗹𝘁:
+        - Improved maintenance efficiency by 𝟮𝟱% 
+        - Reduced paper wastage by 𝟭𝟱%
+        - Exceeded expectations and received outstanding commendation and monetary award
+
+        📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+        - PowerApps, PowerFx, PowerAutomate
+      
+   <br/>
+   
+   https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-a22d-794ef6af302c.mp4
+   
+</dl>
+</details>
+
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">Frontend Web Developer Intern | <a href="https://mission.zendodo.io" target="_blank">Zendodo</a> | Nov 2021 - Jan 2021 (3 months)</summary>
+ <dl>
+   <br/>
+   
+      📑 𝗔𝗯𝗼𝘂𝘁:
+      - Zendodo is a NFT collection that lives on the WAX blockchain. 
+      - Mission Crafts is an 𝗡𝗙𝗧 𝗴𝗮𝗺𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 for Zendodo Party players.
+
+      🌳 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁:
+      - Worked in a 𝗿𝗮𝗽𝗶𝗱 development environment with 𝗱𝗮𝗶𝗹𝘆 𝘀𝘁𝗮𝗻𝗱𝘂𝗽𝘀. 
+      - Collaborated with the UI/UX designers on frontend features
+
+      👨‍💻 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+      - Developed a blockchain NFT gaming web application (Mission Craft) in 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁, 𝗦𝗔𝗦𝗦 and 𝗡𝗲𝘅𝘁.𝗷𝘀 (𝗥𝗲𝗮𝗰𝘁)
+      - Optimized data retrieval from blockchain API
+      - Engineered reusable components to speed up development efficiency and improve code quality
+      - Optimized 𝘀𝘁𝗮𝘁𝗲 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 using 𝘇𝘂𝘀𝘁𝗮𝗻𝗱 and 𝗿𝗲𝗮𝗰𝘁 𝘀𝘁𝗮𝘁𝗲 𝗵𝗼𝗼𝗸𝘀
+
+      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+      - SASS, TypeScript
+      - Next.js (React), zustand
+      - Blockchain API (atomicassests API, dfuse API by EOS Nation)
+   
+https://user-images.githubusercontent.com/59118459/169631280-79699a85-6dc4-4ba4-bbd9-ce5167c02737.mp4
+
+https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-9c31-982fa4ac609b.mp4
+
+</dl>
+</details>
+
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">Software Developer Intern | <a href="https://projectflux.co" target="_blank">Project Flux</a> | Dec 2021 (1 month)</summary>
+ <dl>
+   <br/>
+   
+   [Letter of Recommendation.pdf](https://github.com/ztjhz/ztjhz/files/8746222/Letter.of.Recommendation.-.Jing.Hua.pdf)
+   
+      📑 𝗔𝗯𝗼𝘂𝘁:
+      - Project Flux is a Singapore headquartered Artificial Intelligence and Big Data start-up. 
+      - Leveraging on its proprietary algorithm, it aims to democratize travel intelligence for underserved enterprises and individuals.
+
+      👨‍💻 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+      - Engineered major client facing features with 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝟭.𝟳 and deployed with 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗽𝗽 𝗘𝗻𝗴𝗶𝗻𝗲 and 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺
+      - Optimized performance of web app by analyzing existing code base, reducing load time by 𝟳𝟬%
+      - Mentored onboarding software developers and wrote 𝗰𝗼𝗱𝗲 𝗿𝗲𝘃𝗶𝗲𝘄𝘀 and documentations for other developers
+
+      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+      - Frontend: HTML, CSS, JavaScript, Angular 1.7
+      - Backend: Python
+      - Database: Cloud Firestore
+      - Deployment: Google Cloud Platform (App Engine, Cloud Storage, Cloud
+      Endpoints)
+
+      🥇 𝗥𝗲𝘀𝘂𝗹𝘁:
+      - Reduced page load speed by 𝟳𝟬% and increased user satisfaction by 𝟯𝟭%
+      - Achieved 𝟮𝟬𝟬𝟬 𝘃𝗶𝘀𝗶𝘁𝘀 by 𝟳𝟱𝟬 𝘂𝗻𝗶𝗾𝘂𝗲 𝘂𝘀𝗲𝗿𝘀 from all 𝟲 𝗰𝗼𝗻𝘁𝗶𝗻𝗲𝗻𝘁𝘀 within a day of launch
+   
+  ![home-page](https://user-images.githubusercontent.com/59118459/169631391-5796bae5-1a91-4346-a466-4c2e5b26f0f2.jpeg)
+  ![Omicron Tracker Page](https://user-images.githubusercontent.com/59118459/169631393-8688cc24-d04e-4625-9ce9-527ce41ec649.jpeg)
+  ![cookie-page](https://user-images.githubusercontent.com/59118459/169631396-a5df2077-7f82-4b8b-9f45-282e6faf7220.jpeg)
+
+</dl>
+</details>
+
+<!-- |Company|Role|Start|End|
 |-------|----|-----|---|
 |REC Solar|Software Engineer Intern|Nov 2021|Jan 2022|
 |Zendodo Pte. Ltd.|Frontend Web Developer Intern|Nov 2021|Jan 2022|
-|Project Flux|Software Developer Intern|Dec 2021|Dec 2021|
+|Project Flux|Software Developer Intern|Dec 2021|Dec 2021| -->
 <!-- |GovTech - Government Digital Services|Software Engineer Intern|May 2022|Aug 2022| -->
 
 <br />
