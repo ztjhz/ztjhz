@@ -1,14 +1,14 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<p align="center">
+<!-- <p align="center">
 <a href="#"><img width="60%" height="auto" src="https://user-images.githubusercontent.com/59118459/166128708-3265f463-82ee-4bcd-ba5c-665fd3e18f06.jpg" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jing Hua</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jing Hua</h1> -->
 <!-- <h3 align="center">Bringing ideas to life with code 🌱</h3> -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://tohjinghua.com" target="_blank" ><img src="https://img.shields.io/badge/portfolio_website-D14836?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tohjinghua/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+</div> -->
 
 <!-- ## 🙋‍♂️ About Me
 
