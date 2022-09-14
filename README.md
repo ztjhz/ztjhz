@@ -11,6 +11,26 @@
 </div> -->
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
+
+<details>
+  <summary><b>Software Engineer | <a href="https://www.linkedin.com/company/reluvate-technologies/" target="_blank">Reluvate Technologies</a> | May 2022 - Aug 2022 (4 months)</b></summary>
+ <dl>
+   <br/>
+
+      👨‍💻 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+      - Singlehandedly developed from scratch an interactive and 
+        complex e-learning platform and marketplace in Typescript and React
+      - Created reusable components libraries that were used by other development teams
+      - Collaborated effectively with UI/UX designer, backend developer, and clients from different countries
+
+      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+      - TypeScript, React.js, MUI
+   
+https://user-images.githubusercontent.com/59118459/190162852-df4d4eaa-e895-4ae5-9664-b8b3cf172f29.mp4
+
+</dl>
+</details>
+
 <details>
   <summary><b>Frontend Web Developer Intern | <a href="https://mission.zendodo.io" target="_blank">Zendodo</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
  <dl>
