@@ -13,7 +13,7 @@
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
 
 <details>
-  <summary><b>Software Engineer | <a href="https://www.linkedin.com/company/reluvate-technologies/" target="_blank">Reluvate Technologies</a> | May 2022 - Aug 2022 (4 months)</b></summary>
+  <summary><b>Software Engineer | <a href="https://www.linkedin.com/company/reluvate-technologies/" target="_blank">Reluvate Technologies, Singapore</a> | May 2022 - Aug 2022 (4 months)</b></summary>
  <dl>
    <br/>
 
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/59118459/190162852-df4d4eaa-e895-4ae5-
 </details>
 
 <details>
-  <summary><b>Frontend Web Developer Intern | <a href="https://mission.zendodo.io" target="_blank">Zendodo</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
+  <summary><b>Frontend Web Developer (Intern) | <a href="https://mission.zendodo.io" target="_blank">Zendodo, Singapore</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
  <dl>
    <br/>
    
@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary><b>Software Engineer Intern | <a href="https://www.recgroup.com/en" target="_blank">REC Solar</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
+  <summary><b>Mobile Application Developer (Part-Time) | <a href="https://www.recgroup.com/en" target="_blank">REC Solar, California</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
  <dl>
    <br/>
    
@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </details>
 
 <details>
-  <summary><b>Software Developer Intern | <a href="https://projectflux.co" target="_blank">Project Flux</a> | Dec 2021 (1 month)</b></summary>
+  <summary><b>Software Developer (Contract) | <a href="https://projectflux.co" target="_blank">Project Flux, Singapore</a> | Dec 2021 (1 month)</b></summary>
  <dl>
    <br/>
    
