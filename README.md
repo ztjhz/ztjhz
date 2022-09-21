@@ -147,10 +147,11 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
  <dl>
   <dt>Full Stack</dt>
     <dd><li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li></dd>
-    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15ppx"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-2-recsolar-md" alt="recsolar"> Maintenance App | Rec Solar</a></li></dd>
+    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15ppx"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md" alt="recsolar"> Maintenance App | Rec Solar</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories (MERN)</a></li></dd>
   <dt>Front end</dt>
-    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-1-zendodo-md" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li></dd>
+   <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-1-trehaus-md" alt="trehaus"> Complex and Interactive E-Learning Platform | Reluvate Technologies - Trehaus</a></li></dd>
+    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-2-zendodo-md" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li></dd>
     <dd><li><a href="https://tohjinghua.com" alt="portfolio">Portfolio Website</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li></dd>
     <dd><li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li></dd>
