@@ -287,6 +287,8 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 
 <br/>
 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=ztjhz&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Hua's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ztjhz&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px" />
+
 <!-- <details>
   <summary>🔥 Streak</summary>
   <img title="Jing Hua's streak" alt="Jing Hua's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ztjhz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
