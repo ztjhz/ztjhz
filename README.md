@@ -1,8 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
-- [TraViS (Transformer Attention Visualiser)](https://github.com/ayaka14732/TrAVis)
-- [Word Piece Tokenizer](https://github.com/ztjhz/word-piece-tokenizer)
-- [NTU Class Schedule Generator](https://github.com/ztjhz/generate_class_schedule_ics)
-
+- <a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a> [**ayaka14732/TrAVis**](https://github.com/ayaka14732/TrAVis): _TrAVis: Transformer Attention Visualiser_
+- <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/word-piece-tokenizer**](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
+- <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/generate_class_schedule_ics**](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
 
