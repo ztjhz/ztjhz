@@ -1,7 +1,29 @@
+## Hi there! 👋
+
+This is Jing Hua, an undergraduate student from NTU, Singapore.
+- 📚 Business and Computer Science sophomore (first class honours + dean's list)
+- 💬 English(en) 中文(zh) 日本語(ja) Svenska(sv) Español(es) 
+- <img height="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg"/> Arch Linux user
+- 🌐 Full-stack web (React + Django/NodeJS + SQL)
+- 🧠 Deep Learning + NLP + CV
+- 💕 Opensource
+- 🏆 Hackathon champion + most innovative
+- 👩‍💻 4 software engineer internship experience
+- 😇 Volunteer web developer at TransgenderSG
+
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
-- <a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a> [**ayaka14732/TrAVis**](https://github.com/ayaka14732/TrAVis): _TrAVis: Transformer Attention Visualiser_
+
+- <a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a> [**ayaka14732/TrAVis**](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser_
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/word-piece-tokenizer**](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/generate_class_schedule_ics**](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
+
+<!-- [![TrAVis](https://github-readme-stats.vercel.app/api/pin/?username=ayaka14732&repo=travis&theme=rose_pine)](https://github.com/ayaka14732/TrAVis#gh-dark-mode-only)
+[![TrAVis](https://github-readme-stats.vercel.app/api/pin/?username=ztjhz&repo=word-piece-tokenizer&theme=rose_pine)](https://github.com/ztjhz/word-piece-tokenizer#gh-dark-mode-only)
+[![TrAVis](https://github-readme-stats.vercel.app/api/pin/?username=ztjhz&repo=generate_class_schedule_ics&theme=rose_pine)](https://github.com/ztjhz/generate_class_schedule_ics#gh-dark-mode-only) -->
+
+[<img src="https://github-readme-stats.vercel.app/api?username=ztjhz&count_private=true&theme=rose_pine&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Hua's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ztjhz&layout=compact&langs_count=8&theme=rose_pine&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/ztjhz#gh-dark-mode-only)
+
+[<img src="https://github-readme-stats.vercel.app/api?username=ztjhz&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Hua's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ztjhz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/ztjhz#gh-light-mode-only)
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
 
@@ -125,35 +147,33 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 </dl>
 </details>
 
-<!-- |Company|Role|Start|End|
-|-------|----|-----|---|
-|REC Solar|Software Engineer Intern|Nov 2021|Jan 2022|
-|Zendodo Pte. Ltd.|Frontend Web Developer Intern|Nov 2021|Jan 2022|
-|Project Flux|Software Developer Intern|Dec 2021|Dec 2021| -->
-<!-- |GovTech - Government Digital Services|Software Engineer Intern|May 2022|Aug 2022| -->
-
-<br />
-
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 <details>
   <summary><b>🌐 Web Dev</b></summary>
  <dl>
   <dt>Full Stack</dt>
-    <dd><li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li></dd>
-    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15ppx"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md" alt="recsolar"> Maintenance App | Rec Solar</a></li></dd>
-    <dd><li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories (MERN)</a></li></dd>
+   <ul>
+    <li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li>
+    <li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15ppx"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md" alt="recsolar"> Maintenance App | Rec Solar</a></li>
+    <li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories (MERN)</a></li>
+   </ul>
   <dt>Front end</dt>
-   <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-1-trehaus-md" alt="trehaus"> Complex and Interactive E-Learning Platform | Reluvate Technologies - Trehaus</a></li></dd>
-    <dd><li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-2-zendodo-md" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li></dd>
-    <dd><li><a href="https://tohjinghua.com" alt="portfolio">Portfolio Website</a></li></dd>
-    <dd><li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li></dd>
-    <dd><li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li></dd>
-    <dd><li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li></dd>
+   <ul>
+    <li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-1-trehaus-md" alt="trehaus"> Complex and Interactive E-Learning Platform | Reluvate Technologies - Trehaus</a></li>
+    <li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-2-zendodo-md" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li>
+    <li><a href="https://tohjinghua.com" alt="portfolio">Portfolio Website</a></li>
+    <li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li>
+    <li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li>
+    <li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li>
+   </ul>
+
   <dt>Back end</dt>
-    <dd><li><a href="https://github.com/ztjhz/django-mail-server" alt="django-mail-server">Django Mail Server</a></li></dd>
-   <dd><li><a href="https://github.com/ztjhz/django-ecommerce-server" alt="django-ecommerce-server">Django Ecommerce Server</a></li></dd>
-   <dd><li><a href="https://github.com/ztjhz/django-wiki-server" alt="django-wiki-server">Django Wiki Server</a></li></dd>
-  <dd><li><a href="https://github.com/ztjhz/django-social-media-server" alt="django-social-media-server">Django Social Media Server</a></li></dd>
+    <ul>
+      <li><a href="https://github.com/ztjhz/django-mail-server" alt="django-mail-server">Django Mail Server</a></li>
+      <li><a href="https://github.com/ztjhz/django-ecommerce-server" alt="django-ecommerce-server">Django Ecommerce Server</a></li>
+      <li><a href="https://github.com/ztjhz/django-wiki-server" alt="django-wiki-server">Django Wiki Server</a></li>
+      <li><a href="https://github.com/ztjhz/django-social-media-server" alt="django-social-media-server">Django Social Media Server</a></li>
+    </ul>
 </dl>
 </details>
 
@@ -189,8 +209,6 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
   <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
  </ul>
 </details>
-
-<br />
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Languages and Tools:
 
@@ -278,32 +296,4 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
   </dl>
 </details>
 
-<br/>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=ztjhz&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Hua's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ztjhz&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />
-
-<!-- <details>
-  <summary>🔥 Streak</summary>
-  <img title="Jing Hua's streak" alt="Jing Hua's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ztjhz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</details>
-
-<details>
-  <summary>:zap: Most used languages</summary>
-  <a href="#"><img alt="ztjhz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztjhz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <br />
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<details>
-  <summary>📊 My Github Stats</summary>
-<a href="#"><img alt="ztjhz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ztjhz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="ztjhz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ztjhz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</details> -->
-
-</p>
-
-<!-- ## ❤ Views and Followers
-<a href="#">
-    <img src="https://komarev.com/ghpvc/?username=ztjhz">
-</a>
-<a href="https://github.com/ztjhz?tab=followers"><img src="https://img.shields.io/github/followers/ztjhz?label=Followers&style=social" alt="GitHub Badge"></a> -->
