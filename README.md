@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-This is Jing Hua, an undergraduate student from NTU, Singapore.
+This is Jing Hua, an undergraduate student from NTU, Singapore. 
 - 📚 Business and Computer Science sophomore (first class honours + dean's list)
 - 💬 English(en) 中文(zh) 日本語(ja) Svenska(sv) Español(es) 
 - <img height="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg"/> Arch Linux user
@@ -292,3 +292,12 @@ https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-
 
   </dl>
 </details>
+
+
+## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
+
+
+[![LinkedIn](https://img.shields.io/badge/-Jing_Hua-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjinghua/)](https://www.linkedin.com/in/tohjinghua/)
+[![Twitter](https://img.shields.io/badge/-@nikushii__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikushii_)
+[![Mail](https://img.shields.io/badge/-mail@dev.tjh.sg-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@dev.tjh.sg)
+[![GitHub](https://img.shields.io/github/followers/ztjhz?style=social&label=Follow)](https://github.com/ztjhz)
