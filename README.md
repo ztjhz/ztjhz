@@ -7,16 +7,18 @@ This is Jing Hua, an undergraduate student from NTU, Singapore.
 - 🌐 Full-stack web (React + Django/NodeJS + SQL)
 - 🧠 Deep Learning + NLP + CV
 - 💕 Opensource
-- 🏆 Hackathon champion + most innovative
+- 🏆 2x hackathon champion + 1x most innovative
 - 👩‍💻 4 software engineer internship experience
 - 😇 Volunteer web developer at TransgenderSG
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
+- <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a><a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a><a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a>  [**ayaka14732/ByteVid**](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week 2022 Hackathon (1st place 🥇)_
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a><a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a> [**ayaka14732/TrAVis**](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser_
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/word-piece-tokenizer**](https://github.com/ztjhz/word-piece-tokenizer): _A Lightweight Word Piece Tokenizer_
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/generate_class_schedule_ics**](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
 - <a href='https://github.com/internetarchive' title='internetarchive'> <img src='https://avatars.githubusercontent.com/u/130493?s=200&v=4' height='20' width='20'/></a> [**internetarchive/openlibrary**](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
+
 
 [<img src="https://github-readme-stats.vercel.app/api?username=ztjhz&count_private=true&theme=rose_pine&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Hua's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ztjhz&layout=compact&langs_count=8&theme=rose_pine&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/ztjhz#gh-dark-mode-only)
 
