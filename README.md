@@ -21,7 +21,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/generate_class_schedule_ics**](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
 - <a href='https://github.com/internetarchive' title='internetarchive'> <img src='https://avatars.githubusercontent.com/u/130493?s=200&v=4' height='20' width='20'/></a> [**internetarchive/openlibrary**](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
 
-## <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="20px" height="20px"/> Experience
+## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Experience
 
 <details>
   <summary><b>Software Engineer (Intern) | Reluvate Technologies | May 2022 - Aug 2022 (4 months)</b></summary>
@@ -112,67 +112,51 @@ https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
-<details>
-  <summary><b>🌐 Web Dev</b></summary>
- <dl>
-  <dt>Full Stack</dt>
-   <ul>
-    <li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li>
-    <li><img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="15px" height="15ppx"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md" alt="recsolar"> Maintenance App | Rec Solar</a></li>
-    <li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories (MERN)</a></li>
-   </ul>
-  <dt>Front end</dt>
-   <ul>
-    <li><img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="15px" height="15px"/><a href="https://tjh.sg/reluvate" alt="trehaus"> Complex and Interactive E-Learning Platform | Reluvate Technologies - Trehaus</a></li>
-    <li><img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="15px" height="15px"/><a href="https://tjh.sg/zendodo" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li>
-    <li><a href="https://tohjinghua.com" alt="portfolio">Portfolio Website</a></li>
-    <li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li>
-    <li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li>
-    <li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li>
-   </ul>
+**Artificial Intelligence**
 
-  <dt>Back end</dt>
-    <ul>
-      <li><a href="https://github.com/ztjhz/django-mail-server" alt="django-mail-server">Django Mail Server</a></li>
-      <li><a href="https://github.com/ztjhz/django-ecommerce-server" alt="django-ecommerce-server">Django Ecommerce Server</a></li>
-      <li><a href="https://github.com/ztjhz/django-wiki-server" alt="django-wiki-server">Django Wiki Server</a></li>
-      <li><a href="https://github.com/ztjhz/django-social-media-server" alt="django-social-media-server">Django Social Media Server</a></li>
-    </ul>
-</dl>
-</details>
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser - 23 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
+- [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
+- [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
+- [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
 
-<details>
-  <summary><b>⚙️ Automation</b></summary>
- <ul>
-  <li><a href="https://github.com/ztjhz/generate_class_schedule_ics" alt="class_schedule">Class Schedule Generator</a></li>
-  <li><a href="https://github.com/ztjhz/crypto-portfolio" alt="finance_tracker">Personal Finance Tracker</a></li>
- </ul>
-</details>
+**Open Source**
 
-<details>
-  <summary><b>🧠 Algorithms & Data Structures</b></summary>
- <ul>
-  <li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li>
-  <li><a href="https://github.com/ztjhz/sorting-visualiser" alt="sorting">Sorting Visualizer</a></li>
-  <li><a href="https://github.com/ztjhz/Hash-Table-in-C" alt="C_hashtable">Hashtable in C</a></li>
- </ul>
-</details>
+- [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published!
+- [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
+- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper): Using OpenAI's Whisper to automatically generate YouTube subtitles
+- [mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki): MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.
 
-<details>
-  <summary><b>🎮 Games</b></summary>
- <ul>
-  <li><a href="https://github.com/ztjhz/TicTacToe" alt="tictactoe">TicTacToe</a></li>
-  <li><a href="https://github.com/ztjhz/snake-game" alt="snake_game">Snake Game</a></li>
- </ul>
-</details>
+**Full Stack Web**
 
-<details>
-  <summary><b>🤖 Machine Learning</b></summary>
- <ul>
-  <li><img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="15px" height="15px"/><a href="https://github.com/ztjhz/SC1015-Project" alt="food_forecast"> AniFame - Anime Success Predictor</a></li>
-  <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
- </ul>
-</details>
+- [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
+- [ztjhz/PokeApp](https://github.com/ztjhz/PokeApp): Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)
+- [work/rec-solar](https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A mobile application for optimising solar equipment maintenance
+- [ztjhz/memories-web-app](https://github.com/ztjhz/memories-web-app): Allowing users to store their precious memories
+
+**Front End Web**
+
+- [work/reluvate-technologies](https://tjh.sg/reluvate): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A complex and interactive e-learning platform for early childhood education
+- [work/zendodo](https://tjh.sg/zendodo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> An NFT gaming web application built on the WAX blockchain
+- [ztjhz/website](https://tohjinghua.com): My personal website
+- [ztjhz/netflix-clone](https://github.com/ztjhz/netflix-clone): A front end clone of netflix
+- [ztjhz/pathfinding-visualiser](https://github.com/ztjhz/pathfinding-visualiser): Visualise pathfinding algorithms in-browser
+- [ztjhz/sorting-visualiser](https://github.com/ztjhz/sorting-visualiser): Visualise sorting algorithms in-browser
+
+**Back End Web**
+
+- [ztjhz/django-mail-server](https://github.com/ztjhz/django-mail-server): A mail server
+- [ztjhz/django-ecommerce-server](https://github.com/ztjhz/django-ecommerce-server): An ecommerce server
+- [ztjhz/django-wiki-server](https://github.com/ztjhz/django-wiki-server): A wiki server
+- [ztjhz/django-social-media-server](https://github.com/ztjhz/django-social-media-server): A social media server
+
+**Other**
+
+- [ztjhz/Hash-Table-in-C](https://github.com/ztjhz/Hash-Table-in-C): Hash table implementation in C
+- [ztjhz/TicTacToe](https://github.com/ztjhz/TicTacToe): A clean, modern, and fun tic-tac-toe game
+- [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
+- [ztjhz/crypto-portfolio](https://github.com/ztjhz/crypto-portfolio): A finance tracker with lots of features
+- [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> NTU class schedule generator for calendar
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 
