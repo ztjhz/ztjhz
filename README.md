@@ -1,23 +1,17 @@
 ## Hi there! 👋🏻
 
-I am `Jing Hua`, an undergraduate student in [NTU](https://www.ntu.edu.sg/), Singapore.
+I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 - 📚 Business and Computer Science sophomore (first class honours + dean's list)
 - 💬 English(en) 中文(zh) 日本語(ja) Svenska(sv) Español(es)
-- <img height="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg"/> Arch Linux user
 - 🌐 Full-stack web (React + Django/NodeJS + SQL)
 - 🧠 Deep Learning + NLP + CV
+- <img height="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg"/> Arch Linux user
 - 💕 Opensource
-- 🏆 2x hackathon champion + 1x most innovative
+- 💜 Like Python, JavaScript, and React
 - 👩‍💻 4 software engineer internship experience
-- 😇 Volunteer web developer at TransgenderSG
-
-## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
-
-[![LinkedIn](https://img.shields.io/badge/-Jing_Hua-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjinghua/)](https://www.linkedin.com/in/tohjinghua/)
-[![Twitter](https://img.shields.io/badge/-@nikushii__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikushii_)
-[![Mail](https://img.shields.io/badge/-mail@dev.tjh.sg-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@dev.tjh.sg)
-[![GitHub](https://img.shields.io/github/followers/ztjhz?style=social&label=Follow)](https://github.com/ztjhz)
+- 🏆 2x hackathon champion + 1x most innovative
+- 😇 Volunteer frontend web developer at TransgenderSG
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
@@ -27,14 +21,13 @@ I am `Jing Hua`, an undergraduate student in [NTU](https://www.ntu.edu.sg/), Sin
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/generate_class_schedule_ics**](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
 - <a href='https://github.com/internetarchive' title='internetarchive'> <img src='https://avatars.githubusercontent.com/u/130493?s=200&v=4' height='20' width='20'/></a> [**internetarchive/openlibrary**](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
+## <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="20px" height="20px"/> Experience
 
 <details>
   <summary><b>Software Engineer (Intern) | Reluvate Technologies | May 2022 - Aug 2022 (4 months)</b></summary>
 
     👨‍💻 Work:
-    - Singlehandedly developed from scratch an interactive and
-      complex e-learning platform and marketplace in Typescript and React
+    - Singlehandedly developed from scratch an interactive and complex e-learning platform and marketplace in Typescript and React
     - Collaborated effectively with UI/UX designer, backend developer, and clients from different countries
 
     🥇 Achievement:
@@ -94,8 +87,7 @@ https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-
   <summary><b>Software Developer (Contract) | Project Flux | Dec 2021 (1 month)</b></summary>
 
     👨‍💻 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
-    - Developed major client facing features in Angular and
-      deployed them with Google App Engine on the Google Cloud Platform
+    - Developed major client facing features in Angular and deployed them with Google App Engine on the Google Cloud Platform
     - Mentored onboarding software developers and wrote code reviews and
       documentations for other developers
     - Collaborated effectively in a cross-border, multi-cultural team
@@ -126,13 +118,13 @@ https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-
   <dt>Full Stack</dt>
    <ul>
     <li><a href="https://github.com/ztjhz/PokeApp" alt="pokeapp">PokeApp | Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)</a></li>
-    <li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15ppx"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md" alt="recsolar"> Maintenance App | Rec Solar</a></li>
+    <li><img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="15px" height="15ppx"/><a href="https://gist.github.com/ztjhz/ba045cfc4811b82e97e840819449fd98#file-3-recsolar-md" alt="recsolar"> Maintenance App | Rec Solar</a></li>
     <li><a href="https://github.com/ztjhz/memories-web-app" alt="memories-web-app">Memories (MERN)</a></li>
    </ul>
   <dt>Front end</dt>
    <ul>
-    <li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://tjh.sg/reluvate" alt="trehaus"> Complex and Interactive E-Learning Platform | Reluvate Technologies - Trehaus</a></li>
-    <li><img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="15px" height="15px"/><a href="https://tjh.sg/zendodo" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li>
+    <li><img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="15px" height="15px"/><a href="https://tjh.sg/reluvate" alt="trehaus"> Complex and Interactive E-Learning Platform | Reluvate Technologies - Trehaus</a></li>
+    <li><img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="15px" height="15px"/><a href="https://tjh.sg/zendodo" alt="zendodo"> NFT Gaming Web App | Zendodo</a></li>
     <li><a href="https://tohjinghua.com" alt="portfolio">Portfolio Website</a></li>
     <li><a href="https://github.com/ztjhz/netflix-clone" alt="neflix_clone">Netflix Clone (Front End)</a></li>
     <li><a href="https://github.com/ztjhz/pathfinding-visualiser" alt="pathfinding">Pathfinding Visualizer</a></li>
@@ -182,71 +174,37 @@ https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-
  </ul>
 </details>
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Languages and Tools:
+## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 
-<details>
-  <summary><b>Languages</b></summary>
-
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-1E5128?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
-</details>
-
-<details>
-  <summary><b>Frontend Web</b></summary>
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=sass&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-
-</details>
-
-<details>
-  <summary><b>Backend Web</b></summary>
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-
-![Django](https://img.shields.io/badge/-Django-043728?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-
-</details>
-
-<details>
-  <summary><b>Databases</b></summary>
-
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%234285F4.svg?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
-</details>
-
-<details>
-  <summary><b>Data Science / Machine Learning</b></summary>
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</details>
-
-<details>
-  <summary><b>Deployment</b></summary>
-
+![NodeJS](https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Expressjs-43853d.svg?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-047728?style=flat-square&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-E7A93E?style=flat-square&logo=prettier&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F06032.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Componenets](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-311C87.svg?style=flat-square&logo=flask&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2307405e.svg?style=flat-square&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
-</details>
+## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
+
+[![LinkedIn](https://img.shields.io/badge/-Jing_Hua-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjinghua/)](https://www.linkedin.com/in/tohjinghua/)
+[![Twitter](https://img.shields.io/badge/-@nikushii__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikushii_)
+[![GitHub](https://img.shields.io/github/followers/ztjhz?style=social&label=Follow)](https://github.com/ztjhz)
