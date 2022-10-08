@@ -21,7 +21,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - <a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**ztjhz/generate_class_schedule_ics**](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
 - <a href='https://github.com/internetarchive' title='internetarchive'> <img src='https://avatars.githubusercontent.com/u/130493?s=200&v=4' height='20' width='20'/></a> [**internetarchive/openlibrary**](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
 
-## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Experience
+## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
 - [May 2022 - Aug 2022](https://tjh.sg/reluvate): Software Engineer @ Reluvate Technologies
 - [Nov 2021 - Jan 2022](https://tjh.sg/zendodo): Blockchain Front-End Web Developer Intern @ Zendodo
