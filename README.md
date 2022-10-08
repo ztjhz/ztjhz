@@ -23,92 +23,10 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Experience
 
-<details>
-  <summary><b>Software Engineer (Intern) | Reluvate Technologies | May 2022 - Aug 2022 (4 months)</b></summary>
-
-    👨‍💻 Work:
-    - Singlehandedly developed from scratch an interactive and complex e-learning platform and marketplace in Typescript and React
-    - Collaborated effectively with UI/UX designer, backend developer, and clients from different countries
-
-    🥇 Achievement:
-    - Received high praises from CTO and was given a return offer
-
-    📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-    - TypeScript, React.js, MUI
-
-https://user-images.githubusercontent.com/59118459/190162852-df4d4eaa-e895-4ae5-9664-b8b3cf172f29.mp4
-
-</details>
-
-<details>
-  <summary><b>Blockchain Frontend Web Developer (Intern) | Zendodo | Nov 2021 - Jan 2021 (3 months)</b></summary>
-
-    👨‍💻 Work:
-    - Developed a blockchain NFT gaming web application in 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁, 𝗦𝗔𝗦𝗦 and 𝗡𝗲𝘅𝘁.𝗷𝘀 (𝗥𝗲𝗮𝗰𝘁)
-    - Engineered reusable components to speed up development efficiency and improve code quality
-
-    🥇 Achievement:
-    - Awarded performance bonus for outstanding performance
-
-    📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-    - SASS, TypeScript, Next.js (React)
-    - Blockchain API
-
-https://user-images.githubusercontent.com/59118459/169631280-79699a85-6dc4-4ba4-bbd9-ce5167c02737.mp4
-
-https://user-images.githubusercontent.com/59118459/169631284-0b39e779-23b1-49c8-9c31-982fa4ac609b.mp4
-
-</details>
-
-<details>
-  <summary><b>Mobile Application Developer (Part-Time) | REC Solar | Nov 2021 - Jan 2021 (3 months)</b></summary>
-
-    👨‍💻 Work:
-    - Developed frontend mobile application using 𝗣𝗼𝘄𝗲𝗿𝗔𝗽𝗽𝘀
-    - Designed and 𝗼𝗽𝘁𝗶𝗺𝗶𝘀𝗲𝗱 𝗿𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 to reduce redundancy
-    - Performed rigorous testing to identify and fix bugs
-    - Published 𝗰𝗹𝗲𝗮𝗿 𝗮𝗻𝗱 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 for users and developers
-    - Organized meetings with stakeholders
-
-    🥇 Achievement:
-    - Improved maintenance efficiency by 𝟮𝟱%, and reduced paper wastage by 𝟭𝟱%
-    - Exceeded expectations and received outstanding commendation and monetary award
-
-    📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-    - PowerApps, PowerFx, PowerAutomate
-
-[📃 Letter of Recommendation](https://github.com/ztjhz/ztjhz/files/8746200/REC.Commendation.Letter.Jing.Hua.pdf)
-
-https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-a22d-794ef6af302c.mp4
-
-</details>
-
-<details>
-  <summary><b>Software Developer (Contract) | Project Flux | Dec 2021 (1 month)</b></summary>
-
-    👨‍💻 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
-    - Developed major client facing features in Angular and deployed them with Google App Engine on the Google Cloud Platform
-    - Mentored onboarding software developers and wrote code reviews and
-      documentations for other developers
-    - Collaborated effectively in a cross-border, multi-cultural team
-
-    🥇 Achievement:
-    - Reduced page load speed by 𝟳𝟬% and increased user satisfaction by 𝟯𝟭%
-    - Achieved the highest intern performance rating
-
-    📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-    - Frontend: HTML, CSS, JavaScript, Angular 1.7
-    - Backend: Python
-    - Database: Cloud Firestore
-    - Deployment: Google Cloud Platform (App Engine, Cloud Storage, Cloud Endpoints)
-
-[📃 Letter of Recommendation](https://github.com/ztjhz/ztjhz/files/8746222/Letter.of.Recommendation.-.Jing.Hua.pdf)
-
-![home-page](https://user-images.githubusercontent.com/59118459/169631391-5796bae5-1a91-4346-a466-4c2e5b26f0f2.jpeg)
-![Omicron Tracker Page](https://user-images.githubusercontent.com/59118459/169631393-8688cc24-d04e-4625-9ce9-527ce41ec649.jpeg)
-![cookie-page](https://user-images.githubusercontent.com/59118459/169631396-a5df2077-7f82-4b8b-9f45-282e6faf7220.jpeg)
-
-</details>
+- [May 2022 - Aug 2022](https://tjh.sg/reluvate): Software Engineer @ Reluvate Technologies
+- [Nov 2021 - Jan 2022](https://tjh.sg/zendodo): Blockchain Front-End Web Developer Intern @ Zendodo
+- [Nov 2021 - Jan 2022](https://tjh.sg/rec): Mobile Application Developer @ REC Solar
+- [Dec 2021 - Dec 2021](https://tjh.sg/projectflux): Software Developer (Contract) @ Project Flux
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
