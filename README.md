@@ -42,6 +42,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 **Open Source**
 
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published!
+- [huggingface/transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. 
 - [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper): Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki): MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.
