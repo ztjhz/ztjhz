@@ -8,7 +8,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - 🧠 Deep Learning + NLP + CV
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg" /> Arch Linux user
 - 💕 Opensource
-- 💜 Like Python, JavaScript, and React
+- 💜 Like Python, TypeScript, and React
 - 👩‍💻 4 software engineer internship experience
 - 🏆 2x hackathon champion + 1x most innovative
 - 😇 Volunteer frontend web developer at TransgenderSG
@@ -79,7 +79,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ztjhz/TicTacToe](https://github.com/ztjhz/TicTacToe): A clean, modern, and fun tic-tac-toe game
 - [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
 - [ztjhz/crypto-portfolio](https://github.com/ztjhz/crypto-portfolio): A finance tracker with lots of features
-- [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> NTU class schedule generator for calendar
+- [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): NTU class schedule generator for calendar
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 
