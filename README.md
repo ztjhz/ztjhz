@@ -35,7 +35,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 **Open Source**
 
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published!
-- [huggingface/transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. 
+- [huggingface/transformers](https://github.com/huggingface/transformers): Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo): A community-owned language-learning platform
 - [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper): Using OpenAI's Whisper to automatically generate YouTube subtitles
@@ -44,11 +44,17 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 **Artificial Intelligence**
 
 - [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
-- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser - 34 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser - 36 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
 - [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
 - [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
 - [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
 - [ztjhz/NoMyocardial](https://github.com/ztjhz/NoMyocardial): Say NO to Myocardial Infarcation! (Classification)
+- [ztjhz/VidAssembly](https://github.com/ztjhz/VidAssembly): A version of ByteVid that is powered by AssemblyAI
+
+**Web3**
+
+- [work/zendodo](https://tjh.sg/zendodo): An NFT gaming web application built on the WAX blockchain
+- [xJQx/zilkin](https://github.com/xJQx/zilkin): A Scilla Contracts Deployment Tool featuring an interactive code generator and automatic contract deployment
 
 **Full Stack Web**
 
