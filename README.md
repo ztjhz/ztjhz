@@ -124,4 +124,5 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 [![LinkedIn](https://img.shields.io/badge/-Jing_Hua-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjinghua/)](https://www.linkedin.com/in/tohjinghua/)
 [![Twitter](https://img.shields.io/badge/-@nikushii__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikushii_)
+[![Email](https://img.shields.io/badge/-mail@dev.tjh.sg-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@dev.tjh.sg)
 [![GitHub](https://img.shields.io/github/followers/ztjhz?style=social&label=Follow)](https://github.com/ztjhz)
