@@ -4,24 +4,22 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 - 📚 Business and Computer Science sophomore (first class honours + dean's list)
 - 💬 English(en) 中文(zh) 日本語(ja) Svenska(sv) Español(es)
-- 🌐 Full-stack web (React + Django/NodeJS + SQL)
-- 🧠 Deep Learning + NLP + CV
+- 🧠 Research: Deep Learning + NLP + Multimodal
+- 🌐 Full-stack web: React + Python/NodeJS + SQL
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg" /> Arch Linux user
 - 💕 Opensource
 - 💜 Like Python, TypeScript, and React
 - 👩‍💻 4 software engineer internship experience
 - 🏆 2x hackathon champion + 1x most innovative
-- 😇 Volunteer frontend web developer at TransgenderSG
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): _Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!_
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/t5-jax](https://github.com/ztjhz/t5-jax): _JAX implementation of the T5 model and a Comparative Study of T5 Model Variants for French-English Translation_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [<img src="https://github.com/xjqx.png" height="20" width="20" />](https://github.com/xjqx) [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos - MLDA Deep Learning Week Hackathon 1st place 🥇_
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [<img src="https://github.com/ayaka14732.png" height="20" width="20" />](https://github.com/ayaka14732) [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): _TrAVis: Visualise BERT attention in-browser_
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_
-- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): _Generates Graphviz image URL that can be used directly on any website without a need to host them_
-- [<img src="https://avatars.githubusercontent.com/u/130493?s=200&v=4" height="20" width="20" />](https://github.com/internetarchive) [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): _One webpage for every book ever published_
-<!-- - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): _NTU class schedule generator for calendar_ -->
+- [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): _A lightweight word-piece tokenizer for Natural Language Processing_
+- [<img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="20" width="20" />](https://github.com/huggingface) [huggingface/transformers](https://github.com/huggingface/transformers): _Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX._
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
@@ -44,10 +42,11 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Artificial Intelligence**
 
+- [ztjhz/t5-jax](https://github.com/ztjhz/t5-jax): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> JAX implementation of the T5 model and a Comparative Study of T5 Model Variants for French-English Translation
 - [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
-- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser - 36 <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="14px"/>
-- [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser
 - [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="star3" width="14px"/> A lightweight word-piece tokenizer for Natural Language Processing
+- [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
 - [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
 - [ztjhz/NoMyocardial](https://github.com/ztjhz/NoMyocardial): Say NO to Myocardial Infarcation! (Classification)
 - [ztjhz/VidAssembly](https://github.com/ztjhz/VidAssembly): A version of ByteVid that is powered by AssemblyAI
@@ -66,9 +65,9 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Front End Web**
 
-- [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Generates Graphviz images that can be used directly without a need to host them
-- [work/reluvate-technologies](https://tjh.sg/reluvate): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A complex and interactive e-learning platform for early childhood education
-- [work/zendodo](https://tjh.sg/zendodo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> An NFT gaming web application built on the WAX blockchain
+- [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): Generates Graphviz images that can be used directly without a need to host them
+- [work/reluvate-technologies](https://tjh.sg/reluvate): A complex and interactive e-learning platform for early childhood education
+- [work/zendodo](https://tjh.sg/zendodo): An NFT gaming web application built on the WAX blockchain
 - [ztjhz/website](https://tohjinghua.com): My personal website
 - [ztjhz/netflix-clone](https://github.com/ztjhz/netflix-clone): A front end clone of netflix
 - [ztjhz/pathfinding-visualiser](https://github.com/ztjhz/pathfinding-visualiser): Visualise pathfinding algorithms in-browser
