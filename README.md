@@ -2,14 +2,14 @@
 
 I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
-- 📚 Business and Computer Science sophomore (first class honours + dean's list)
-- 💬 English(en) 中文(zh) 日本語(ja) Svenska(sv) Español(es)
-- 🧠 Research: Deep Learning + NLP + Multimodal
-- 🌐 Full-stack web: React + Python/NodeJS + SQL
+- 📚 Business and Computer Science junior
+- 💬 English(en) 中文(zh) 日本語(ja) ภาษาไทย(th) Svenska(sv)
+- 🧠 Research: NLP + Multimodal
+- 🌐 Full-stack web: React + Python/NodeJS
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg" /> Arch Linux user
 - 💕 Opensource
 - 💜 Like Python, TypeScript, and React
-- 👩‍💻 4 software engineer internship experience
+- 👩‍💻 5 internship experience
 - 🏆 2x hackathon champion + 1x most innovative
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
@@ -21,8 +21,14 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [<img src="https://github.com/ztjhz.png" height="20" width="20" />](https://github.com/ztjhz) [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): _A lightweight word-piece tokenizer for Natural Language Processing_
 - [<img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="20" width="20" />](https://github.com/huggingface) [huggingface/transformers](https://github.com/huggingface/transformers): _Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX._
 
+## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Research Experience
+
+- [Aug 2023 - Present](https://www.ntu.edu.sg/): Student Researcher @ NTU
+- [Apr 2023 - Present](https://xlang.ai): Research Assistant @ XLang Lab
+
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
+- [May 2023 - Aug 2023](https://www.linkedin.com/company/knightsgg/): AI Engineer @ Pittsburgh Knights
 - [May 2022 - Aug 2022](https://me.tjh.sg/docs/work/reluvate): Software Engineer @ Reluvate Technologies
 - [Nov 2021 - Jan 2022](https://me.tjh.sg/docs/work/zendodo): Blockchain Front-End Web Developer Intern @ Zendodo
 - [Nov 2021 - Jan 2022](https://me.tjh.sg/docs/work/rec-solar): Mobile Application Developer @ REC Solar
