@@ -35,6 +35,9 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [Nov 2021 - Jan 2022](https://me.tjh.sg/docs/work/rec-solar): Mobile Application Developer @ REC Solar
 - [Dec 2021 - Dec 2021](https://me.tjh.sg/docs/work/project-flux): Software Developer (Contract) @ Project Flux
 
+## Publications
+- **OpenAgents: An Open Platform for Language Agents in the Wild**: Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, **Toh Jing Hua**, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2310.10634)] | [[code](https://github.com/xlang-ai/OpenAgents)]
+
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
 **Open Source**
