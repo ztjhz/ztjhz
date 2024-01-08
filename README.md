@@ -69,6 +69,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Full Stack Web**
 
+- [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
 - [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
 - [ztjhz/PokeApp](https://github.com/ztjhz/PokeApp): Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)
 - [work/rec-solar](https://me.tjh.sg/docs/work/rec-solar): A mobile application for optimising solar equipment maintenance
@@ -76,6 +77,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Front End Web**
 
+- [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): TrAVis: Visualise BERT attention in-browser
 - [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): Generates Graphviz images that can be used directly without a need to host them
 - [work/reluvate-technologies](https://tjh.sg/reluvate): A complex and interactive e-learning platform for early childhood education
 - [work/zendodo](https://tjh.sg/zendodo): An NFT gaming web application built on the WAX blockchain
