@@ -70,13 +70,15 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 **Full Stack Web**
 
 - [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
-- [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
+- [xJQx/sc2006-feeditforward](https://github.com/xJQx/sc2006-feeditforward): FeedItForward - Connecting Hawkers to Needy Families (NTU SC2006 Software Engineering Project)
+- [ztjhz/teamHotelTriviaGo](https://github.com/ztjhz/teamHotelTriviaGo): SMU LIT Hackathon 2022 - 🥇 Champion + 💡 Most Innovative Award
 - [ztjhz/PokeApp](https://github.com/ztjhz/PokeApp): Fullstack + Cloud Deployment (Django, React, Redux, AWS EC2 + RDS)
 - [work/rec-solar](https://me.tjh.sg/docs/work/rec-solar): A mobile application for optimising solar equipment maintenance
 - [ztjhz/memories-web-app](https://github.com/ztjhz/memories-web-app): Allowing users to store their precious memories
 
 **Front End Web**
 
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): TrAVis: Visualise BERT attention in-browser
 - [ztjhz/graphviz-editor](https://github.com/ztjhz/graphviz-editor): Generates Graphviz images that can be used directly without a need to host them
 - [work/reluvate-technologies](https://tjh.sg/reluvate): A complex and interactive e-learning platform for early childhood education
@@ -86,8 +88,9 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ztjhz/pathfinding-visualiser](https://github.com/ztjhz/pathfinding-visualiser): Visualise pathfinding algorithms in-browser
 - [ztjhz/sorting-visualiser](https://github.com/ztjhz/sorting-visualiser): Visualise sorting algorithms in-browser
 
-**Back End Web**
+**Back End**
 
+- [xJQx/sc2002-fypms](https://github.com/xJQx/sc2002-fypms): Java Based Project Management System (NTU SC2002 Object Oriented Programming Project)
 - [ztjhz/django-mail-server](https://github.com/ztjhz/django-mail-server): A mail server
 - [ztjhz/django-ecommerce-server](https://github.com/ztjhz/django-ecommerce-server): An ecommerce server
 - [ztjhz/django-wiki-server](https://github.com/ztjhz/django-wiki-server): A wiki server
@@ -95,7 +98,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 **Other**
 
-- [ztjhz/me](https://github.com/ztjhz/me): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> A website about my exciting adventures in the world of coding
+- [ztjhz/me](https://github.com/ztjhz/me): A website about my exciting adventures in the world of coding
 - [ztjhz/Hash-Table-in-C](https://github.com/ztjhz/Hash-Table-in-C): Hash table implementation in C
 - [ztjhz/TicTacToe](https://github.com/ztjhz/TicTacToe): A clean, modern, and fun tic-tac-toe game
 - [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
