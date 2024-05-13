@@ -29,6 +29,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
+- [May 2024 - Aug 2024](https://about.google/): Software Engineering Intern @google
 - [May 2023 - Aug 2023](https://www.linkedin.com/company/knightsgg/): AI Engineer Intern @ Pittsburgh Knights
 - [May 2022 - Aug 2022](https://me.tjh.sg/docs/work/reluvate): Software Engineer Intern @ Reluvate Technologies
 - [Nov 2021 - Jan 2022](https://me.tjh.sg/docs/work/zendodo): Blockchain Front-End Web Developer Intern @ Zendodo
