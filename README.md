@@ -37,7 +37,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [Dec 2021 - Dec 2021](https://me.tjh.sg/docs/work/project-flux): Software Developer (Contract) @ Project Flux
 
 ## Publications
-- **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**: Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, **Toh Jing Hua**, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2404.07972)] | [[code](https://github.com/xlang-ai/OSWorld)]
+- **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**: Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, **Toh Jing Hua**, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2404.07972)] | [[code](https://github.com/xlang-ai/OSWorld)] | [[website](https://os-world.github.io/)]
 - **OpenAgents: An Open Platform for Language Agents in the Wild**: Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, **Toh Jing Hua**, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2310.10634)] | [[code](https://github.com/xlang-ai/OpenAgents)]
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
