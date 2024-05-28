@@ -2,7 +2,7 @@
 
 I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
-- 📚 Business and Computer Science junior
+- 📚 Business and Computer Science senior
 - 💬 English(en) 中文(zh) 日本語(ja) ภาษาไทย(th) Svenska(sv)
 - 🧠 Research: NLP + Multimodal
 - 🌐 Full-stack web: React + Python/NodeJS
@@ -50,7 +50,6 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo): A community-owned language-learning platform
 - [nk2028/tshet-uinh-flashcard](https://github.com/nk2028/tshet-uinh-flashcard): Middle Chinese Flashcards
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper): Using OpenAI's Whisper to automatically generate YouTube subtitles
-- [mtf-wiki/MtF-wiki](https://github.com/mtf-wiki/MtF-wiki): MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.
 
 **Artificial Intelligence**
 
