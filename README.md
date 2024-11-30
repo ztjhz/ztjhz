@@ -9,7 +9,7 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg" /> Arch Linux user
 - 💕 Opensource
 - 💜 Like Python, TypeScript, and React
-- 👩‍💻 5 internship experience
+- 👩‍💻 6 internship experience
 - 🏆 2x hackathon champion + 1x most innovative
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
@@ -24,8 +24,8 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Research Experience
 
-- [Aug 2023 - Present](https://www.ntu.edu.sg/): Student Researcher @ NTU
-- [Apr 2023 - Present](https://xlang.ai): Research Assistant @ XLang Lab
+- [Aug 2023 - May 2024](https://www.ntu.edu.sg/): Student Researcher @ NTU
+- [Apr 2023 - March 2024](https://xlang.ai): Research Assistant @ XLang Lab
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
@@ -37,8 +37,8 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [Dec 2021 - Dec 2021](https://me.tjh.sg/docs/work/project-flux): Software Developer (Contract) @ Project Flux
 
 ## Publications
-- **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**: Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, **Toh Jing Hua**, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2404.07972)] | [[code](https://github.com/xlang-ai/OSWorld)] | [[website](https://os-world.github.io/)]
-- **OpenAgents: An Open Platform for Language Agents in the Wild**: Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, **Toh Jing Hua**, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2310.10634)] | [[code](https://github.com/xlang-ai/OpenAgents)]
+- **[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**: Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, **Toh Jing Hua**, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2404.07972)] | [[code](https://github.com/xlang-ai/OSWorld)] | [[website](https://os-world.github.io/)]
+- **[COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild**: Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, **Toh Jing Hua**, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu <br/>[[paper](https://arxiv.org/abs/2310.10634)] | [[code](https://github.com/xlang-ai/OpenAgents)]
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
@@ -57,6 +57,8 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ayaka14732/ByteVid](https://github.com/ayaka14732/ByteVid): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 🥇 1st place
 - [ayaka14732/TrAVis](https://github.com/ayaka14732/TrAVis): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> TrAVis: Visualise BERT attention in-browser
 - [ztjhz/miniLM](https://github.com/ztjhz/miniLM): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Small Model Is All You Need - NTU SC4001 Neural Network & Deep Learning Project
+- [xJQx/sc4000-horse-health-prediction](https://github.com/xJQx/sc4000-horse-health-prediction): Kaggle Challenge - Horse Health Prediction (Top 6%) (NTU SC4000 - Machine Learning)
+- [xJQx/sc4002-nlp-sentiment-classification](https://github.com/xJQx/sc4002-nlp-sentiment-classification): Sentiment Classification (NTU SC4002 - Natural Language Processing)
 - [ztjhz/word-piece-tokenizer](https://github.com/ztjhz/word-piece-tokenizer): A lightweight word-piece tokenizer for Natural Language Processing
 - [ztjhz/AniFame](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
 - [ztjhz/food-stock-demand-forecast](https://github.com/ztjhz/food-stock-demand-forecast): Time series forecast of the demand of food
@@ -105,6 +107,15 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ztjhz/snake-game](https://github.com/ztjhz/snake-game): An intense snake game
 - [ztjhz/crypto-portfolio](https://github.com/ztjhz/crypto-portfolio): A finance tracker with lots of features
 - [ztjhz/generate_class_schedule_ics](https://github.com/ztjhz/generate_class_schedule_ics): NTU class schedule generator for calendar
+
+**Academic**
+- [SC1015 Data Science & Artificial Intelligence](https://github.com/ztjhz/SC1015-Project): Predict the success of an anime with 89% accuracy
+- [SC2002 Object Orientated Programming](https://github.com/xJQx/sc2002-fypms): Java Based Project Management System
+- [SC2006 Software Engineering Project](https://github.com/xJQx/sc2006-feeditforward): FeedItForward - Connecting Hawkers to Needy Families
+- [SC4000 Machine Learning](https://github.com/xJQx/sc4000-horse-health-prediction): Kaggle Challenge - Horse Health Prediction (Top 6%)
+- [SC4001 Neural Network & Deep Learning Project](https://github.com/ztjhz/miniLM): Small Model Is All You Need
+- [SC4002 Natural Language Processing](https://github.com/xJQx/sc4002-nlp-sentiment-classification): Sentiment Classification
+
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 
