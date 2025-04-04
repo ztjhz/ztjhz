@@ -65,6 +65,9 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 - [ztjhz/NoMyocardial](https://github.com/ztjhz/NoMyocardial): Say NO to Myocardial Infarcation! (Classification)
 - [ztjhz/VidAssembly](https://github.com/ztjhz/VidAssembly): A version of ByteVid that is powered by AssemblyAI
 
+**Virtual Reality / Augmented Reality**
+- [ztjhz/EcoVR](https://github.com/ztjhz/EcoVR): A Fun and Interactive Virtual Reality Ecosystem Simulator (NTU SC4060 Virtual & Augmented Reality)
+
 **Web3**
 
 - [work/zendodo](https://tjh.sg/zendodo): An NFT gaming web application built on the WAX blockchain
