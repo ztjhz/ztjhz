@@ -1,10 +1,10 @@
 ## Hi there! 👋🏻
 
-I am `Jing Hua`, an undergraduate student from NTU, Singapore.
+I am `Jing Hua`, a Software Engineer in Google Research Singapore.
 
-- 📚 Business and Computer Science senior
+- 📚 Business and Computer Science graduate
 - 💬 English(en) 中文(zh) 日本語(ja) ภาษาไทย(th) Svenska(sv)
-- 🧠 Research: NLP + Multimodal
+- 🧠 Research: Inference Efficiency, NLP, multimodal
 - 🌐 Full-stack web: React + Python/NodeJS
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/59118459/192527457-e6c52b04-68c2-4845-9943-f7856b8d3004.svg" /> Arch Linux user
 - 💕 Opensource
@@ -29,6 +29,8 @@ I am `Jing Hua`, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
 
+- [Jun 2026 - Present](https://about.google/): Software Engineer @ Google Research
+- [Jun 2025 - Jun 2026](https://about.google/): Software Engineer @ Google
 - [May 2024 - Aug 2024](https://about.google/): Software Engineering Intern @ Google
 - [May 2023 - Aug 2023](https://www.linkedin.com/company/knightsgg/): AI Engineer Intern @ Pittsburgh Knights
 - [May 2022 - Aug 2022](https://me.tjh.sg/docs/work/reluvate): Software Engineer Intern @ Reluvate Technologies
